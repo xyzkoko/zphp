@@ -1,0 +1,12 @@
+2017-04-17 14:03:30 : action : User-Login      {"xxx":777}
+2017-04-17 14:03:30 : [exception] /data/swoole/zphp_kp_new/kpPos/apps/common/Rule.php  line  49  :  -2  平台编号不能为空
+2017-04-17 14:03:31 : action : User-Login      {"xxx":777}
+2017-04-17 14:03:31 : [exception] /data/swoole/zphp_kp_new/kpPos/apps/common/Rule.php  line  49  :  -2  平台编号不能为空
+2017-04-17 14:03:31 : action : User-Login      {"xxx":777}
+2017-04-17 14:03:31 : [exception] /data/swoole/zphp_kp_new/kpPos/apps/common/Rule.php  line  49  :  -2  平台编号不能为空
+2017-04-17 14:03:32 : action : User-Login      {"xxx":777}
+2017-04-17 14:03:32 : [exception] /data/swoole/zphp_kp_new/kpPos/apps/common/Rule.php  line  49  :  -2  平台编号不能为空
+2017-04-17 14:03:32 : action : User-Login      {"xxx":777}
+2017-04-17 14:03:32 : [exception] /data/swoole/zphp_kp_new/kpPos/apps/common/Rule.php  line  49  :  -2  平台编号不能为空
+2017-04-17 14:26:00 : action : User-Login      {"xxx":777}
+2017-04-17 14:26:00 : [exception] /data/swoole/zphp_kp_new/kpPos/apps/common/Rule.php  line  49  :  -2  平台编号不能为空
